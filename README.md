@@ -1,3 +1,7 @@
+# Component Nesting 
+
+Profile Reusable Card Components with Props and Child Component. Styling Semantic UI
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
